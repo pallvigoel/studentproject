@@ -1,0 +1,120 @@
+th,td
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Lobster; 
+    font-size: 17px;
+    border-radius: 3px;
+}
+
+table,td,th
+{
+   border: 2px solid rgb(21, 22, 18);
+   background-color: rgb(182, 225, 240);
+}
+
+.navbar-brand
+{
+    font-size: 25px;
+}
+
+body
+{
+    overflow-x:hidden;
+    height:100%;
+    font-size: 21px;
+    background:#BFE0E1  ;
+}
+
+#stream,#passoutyear 
+ {
+     width:150px;
+     height:33px;
+ }
+
+button{
+
+    width:120px;
+    
+}
+
+.buttons
+{
+    padding:10px;
+    text-align:center;
+    
+}
+
+#button:hover
+{
+    background-color: skyblue;
+    color:white;
+}
+
+.navbar-brand
+{
+    
+    color:black;
+    text-align: center;
+}
+
+.navbar{
+    
+    color:black;
+}
+
+header
+{ 
+	height:55px;
+}
+
+.footer
+ {
+    background:#D5C4D5;
+    padding: 10px 0;
+	position:fixed;
+    bottom:0;
+	margin-right:0;
+	width:100%;
+}
+
+.footer a 
+{
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.footer a:first-child
+{
+    border-left: 1px solid #70726F;
+}
+
+#nav,#student,#button1
+{
+    margin-bottom: 1cm;
+}
+
+.footer a:hover
+{
+    color: white;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.follow
+{
+	text-align:center;
+	color:black;
+}
+
+#myTable
+{
+    border: 2px solid rgb(21, 22, 18)   ;
+    text-align:center;
+    background-color:rgb(133, 209, 236);
+    padding:10px;
+    
+}
